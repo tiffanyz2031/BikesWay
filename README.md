@@ -10,13 +10,11 @@ Customers can login and order a bicycle from the app
 
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
 
-Check out [FRONTEND LIVE DEMO](https://frontend-kyle.herokuapp.com/SignUp) here!!
+Check out [FRONTEND LIVE DEMO](https://frontend-bikesway32.herokuapp.com/) here!!
 
-Check out [API LIVE DEMO](https://backend-kyle.herokuapp.com/) here!!
+Check out [API LIVE DEMO](https://backend-bikesway32.herokuapp.com/) here!!
 
-![Capture](https://user-images.githubusercontent.com/87539893/151256381-856624e1-ddfa-4c49-85c7-0ed532d6c0f1.PNG)
 
-![Capture2](https://user-images.githubusercontent.com/87539893/151256417-071f3d8c-f1cf-406f-b42d-3c931eb04be4.PNG)
 
 
 ## Tech used
@@ -31,7 +29,7 @@ Check out [API LIVE DEMO](https://backend-kyle.herokuapp.com/) here!!
 1. Git Clone
 
 ```
-https://github.com/Kylestew35/BikesWay.git
+git clone https://github.com/tiffanyz2031/BikesWay.git
 
 ```
 
